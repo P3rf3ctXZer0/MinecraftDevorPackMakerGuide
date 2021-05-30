@@ -4,4 +4,4 @@ A place to put common practices when managing a server mod or modpack as develop
 
 Hopefully this will speed up the next generation of content creators interested in the Minecraft scene.
 
-https://i.imgur.com/obCVloD.png
+![enter image description here](https://i.imgur.com/obCVloD.png)
